@@ -1,6 +1,11 @@
 # FlappyBirdAI
 Uma cópia do famoso Flappy Bird, porém com IAs autodidatas implementadas, no fim das contas você estará em um loop infinito com uma IA que não comete erros jogando Flappy Bird!
 
+# NEAT
+Para esse projeto, foi utilizado uma biblioteca de redes neurais, o NEAT
+<br>
+**aprenda mais sobre o NEAT na documentação oficial deles:** https://neat-python.readthedocs.io/en/latest/
+
 # Créditos
 *este repositório é baseado inteiramente no FlappyBirdAI do youtuber Tech with Tim*
 <br>
