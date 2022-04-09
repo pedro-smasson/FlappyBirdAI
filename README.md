@@ -3,10 +3,10 @@ Uma cópia do famoso Flappy Bird, porém com IAs autodidatas implementadas, no f
 
 ## Tecnologias Utilizadas
 - Python
-  - NEAT -> **aprenda mais sobre o NEAT na documentação oficial deles:** https://neat-python.readthedocs.io/en/latest/
+  - NEAT (**aprenda mais sobre o NEAT na documentação oficial deles:** https://neat-python.readthedocs.io/en/latest/)
 
 ## Créditos
-*este repositório é baseado inteiramente no tutorial FlappyBird do youtuber Tech with Tim*
+Este repositório é baseado inteiramente no tutorial FlappyBird do youtuber *Tech with Tim*
 <br>
 <br>
 **link pro repositório github original:** https://github.com/techwithtim/NEAT-Flappy-Bird
